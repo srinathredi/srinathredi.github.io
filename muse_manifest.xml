@@ -1,64 +1,64 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="betatesting.space" resolutions="1x,2x" timestamp="1520667617487">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="betatesting.space" resolutions="1x,2x" timestamp="1520691445161">
   <folder name="css">
     <file name="site_global.css" crc="191584519"/>
-    <file name="master_a-master.css" crc="217721223" ref="special:casement-window:casement:large-doors:bay-window:sliding:doors:products:combination:contact-us:windows:lamination:gallery:accessories:arched:index:premium:about:casement-door"/>
-    <file name="nomq_preview_master_a-master.css" crc="214345366" ref="special:casement-window:casement:large-doors:bay-window:sliding:doors:products:combination:contact-us:windows:lamination:gallery:accessories:arched:index:premium:about:casement-door"/>
+    <file name="master_a-master.css" crc="530529529" ref="special:casement-window:casement:large-doors:bay-window:sliding:doors:products:combination:contact-us:windows:lamination:gallery:accessories:arched:index:premium:about:casement-door"/>
+    <file name="nomq_preview_master_a-master.css" crc="4185471064" ref="special:casement-window:casement:large-doors:bay-window:sliding:doors:products:combination:contact-us:windows:lamination:gallery:accessories:arched:index:premium:about:casement-door"/>
     <file name="special.css" crc="4268132061" ref="special"/>
     <file name="nomq_special.css" crc="4266034530" ref="special"/>
     <file name="iefonts_special.css" crc="3824530138" ref="special"/>
-    <file name="casement-window.css" crc="3851374312" ref="casement-window"/>
-    <file name="nomq_casement-window.css" crc="53858119" ref="casement-window"/>
+    <file name="casement-window.css" crc="4111169563" ref="casement-window"/>
+    <file name="nomq_casement-window.css" crc="4237571121" ref="casement-window"/>
     <file name="iefonts_casement-window.css" crc="3824530138" ref="casement-window"/>
     <file name="casement.css" crc="4268132061" ref="casement"/>
     <file name="nomq_casement.css" crc="4266034530" ref="casement"/>
     <file name="iefonts_casement.css" crc="3824530138" ref="casement"/>
-    <file name="large-doors.css" crc="3851374312" ref="large-doors"/>
-    <file name="nomq_large-doors.css" crc="53858119" ref="large-doors"/>
+    <file name="large-doors.css" crc="4111169563" ref="large-doors"/>
+    <file name="nomq_large-doors.css" crc="4237571121" ref="large-doors"/>
     <file name="iefonts_large-doors.css" crc="3824530138" ref="large-doors"/>
-    <file name="bay-window.css" crc="3851374312" ref="bay-window"/>
-    <file name="nomq_bay-window.css" crc="53858119" ref="bay-window"/>
+    <file name="bay-window.css" crc="4111169563" ref="bay-window"/>
+    <file name="nomq_bay-window.css" crc="4237571121" ref="bay-window"/>
     <file name="iefonts_bay-window.css" crc="3824530138" ref="bay-window"/>
-    <file name="sliding.css" crc="138500477" ref="sliding"/>
-    <file name="nomq_sliding.css" crc="431348561" ref="sliding"/>
+    <file name="sliding.css" crc="3906048100" ref="sliding"/>
+    <file name="nomq_sliding.css" crc="4194883137" ref="sliding"/>
     <file name="iefonts_sliding.css" crc="3824530138" ref="sliding"/>
-    <file name="doors.css" crc="3851374312" ref="doors"/>
-    <file name="nomq_doors.css" crc="53858119" ref="doors"/>
+    <file name="doors.css" crc="4111169563" ref="doors"/>
+    <file name="nomq_doors.css" crc="4237571121" ref="doors"/>
     <file name="iefonts_doors.css" crc="3824530138" ref="doors"/>
     <file name="products.css" crc="4268132061" ref="products"/>
     <file name="nomq_products.css" crc="4266034530" ref="products"/>
     <file name="iefonts_products.css" crc="3824530138" ref="products"/>
-    <file name="combination.css" crc="3851374312" ref="combination"/>
-    <file name="nomq_combination.css" crc="53858119" ref="combination"/>
+    <file name="combination.css" crc="4111169563" ref="combination"/>
+    <file name="nomq_combination.css" crc="4237571121" ref="combination"/>
     <file name="iefonts_combination.css" crc="3824530138" ref="combination"/>
-    <file name="contact-us.css" crc="433909272" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="4080013041" ref="contact-us"/>
+    <file name="contact-us.css" crc="94886493" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="327113286" ref="contact-us"/>
     <file name="iefonts_contact-us.css" crc="3824530138" ref="contact-us"/>
-    <file name="windows.css" crc="3851374312" ref="windows"/>
-    <file name="nomq_windows.css" crc="53858119" ref="windows"/>
+    <file name="windows.css" crc="4111169563" ref="windows"/>
+    <file name="nomq_windows.css" crc="4237571121" ref="windows"/>
     <file name="iefonts_windows.css" crc="3824530138" ref="windows"/>
-    <file name="lamination.css" crc="3851374312" ref="lamination"/>
-    <file name="nomq_lamination.css" crc="53858119" ref="lamination"/>
+    <file name="lamination.css" crc="4111169563" ref="lamination"/>
+    <file name="nomq_lamination.css" crc="4237571121" ref="lamination"/>
     <file name="iefonts_lamination.css" crc="3824530138" ref="lamination"/>
-    <file name="gallery.css" crc="26362830" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="102550598" ref="gallery"/>
+    <file name="gallery.css" crc="3954412925" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="3816813572" ref="gallery"/>
     <file name="iefonts_gallery.css" crc="3824530138" ref="gallery"/>
-    <file name="accessories.css" crc="3851374312" ref="accessories"/>
-    <file name="nomq_accessories.css" crc="53858119" ref="accessories"/>
+    <file name="accessories.css" crc="4111169563" ref="accessories"/>
+    <file name="nomq_accessories.css" crc="4237571121" ref="accessories"/>
     <file name="iefonts_accessories.css" crc="3824530138" ref="accessories"/>
-    <file name="arched.css" crc="3851374312" ref="arched"/>
-    <file name="nomq_arched.css" crc="53858119" ref="arched"/>
+    <file name="arched.css" crc="4111169563" ref="arched"/>
+    <file name="nomq_arched.css" crc="4237571121" ref="arched"/>
     <file name="iefonts_arched.css" crc="3824530138" ref="arched"/>
-    <file name="index.css" crc="3847374819" ref="index"/>
-    <file name="nomq_index.css" crc="243107655" ref="index"/>
+    <file name="index.css" crc="3939248814" ref="index"/>
+    <file name="nomq_index.css" crc="18654046" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="premium.css" crc="3851374312" ref="premium"/>
-    <file name="nomq_premium.css" crc="53858119" ref="premium"/>
+    <file name="premium.css" crc="4111169563" ref="premium"/>
+    <file name="nomq_premium.css" crc="4237571121" ref="premium"/>
     <file name="iefonts_premium.css" crc="3824530138" ref="premium"/>
     <file name="about.css" crc="4268132061" ref="about"/>
     <file name="nomq_about.css" crc="4266034530" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="casement-door.css" crc="3851374312" ref="casement-door"/>
-    <file name="nomq_casement-door.css" crc="53858119" ref="casement-door"/>
+    <file name="casement-door.css" crc="4111169563" ref="casement-door"/>
+    <file name="nomq_casement-door.css" crc="4237571121" ref="casement-door"/>
     <file name="iefonts_casement-door.css" crc="3824530138" ref="casement-door"/>
   </folder>
   <folder name="scripts">
@@ -206,15 +206,16 @@
       <caption webpage="sliding" alt=""/>
       <caption webpage="sliding" alt=""/>
       <caption webpage="sliding" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
@@ -224,15 +225,15 @@
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -266,53 +267,15 @@
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
@@ -320,6 +283,43 @@
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
       <caption webpage="bay-window" alt=""/>
       <caption webpage="bay-window" alt=""/>
       <caption webpage="bay-window" alt=""/>
@@ -375,15 +375,16 @@
       <caption webpage="sliding" alt=""/>
       <caption webpage="sliding" alt=""/>
       <caption webpage="sliding" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
-      <caption webpage="premium" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
@@ -393,15 +394,15 @@
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
       <caption webpage="casement-window" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
-      <caption webpage="large-doors" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
+      <caption webpage="casement-door" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -435,53 +436,15 @@
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="casement-door" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="lamination" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
-      <caption webpage="arched" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
+      <caption webpage="premium" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
@@ -489,6 +452,43 @@
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="large-doors" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="arched" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
+      <caption webpage="lamination" alt=""/>
       <caption webpage="bay-window" alt=""/>
       <caption webpage="bay-window" alt=""/>
       <caption webpage="bay-window" alt=""/>
@@ -1402,23 +1402,23 @@
     <file name="large-sliding-doors-buttonu119189-fr.jpg" crc="4076034969" ref="sliding"/>
     <file name="large-sliding-doors-buttonu119189-fr_2x.jpg" crc="438746565" ref="sliding"/>
   </folder>
-  <file name="index.html" crc="3938893302" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="about.html" crc="275112889" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="products.html" crc="211632425" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="gallery.html" crc="331443209" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="contact-us.html" crc="4061415967" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="sliding.html" crc="3848891798" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="casement.html" crc="4209510190" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="special.html" crc="4288076630" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="premium.html" crc="4031738087" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="accessories.html" crc="4192237909" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="windows.html" crc="4017604456" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="doors.html" crc="4033334020" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="large-doors.html" crc="3938720342" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="casement-window.html" crc="4033546427" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="casement-door.html" crc="4105864016" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="arched.html" crc="4268236777" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="lamination.html" crc="3879563634" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="combination.html" crc="148776628" seo="true" mt="1520511644105" redirect="true"/>
-  <file name="bay-window.html" crc="4021839531" seo="true" mt="1520511644105" redirect="true"/>
+  <file name="index.html" crc="3793423028" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="about.html" crc="4281508081" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="products.html" crc="244371122" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="gallery.html" crc="4080474112" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="contact-us.html" crc="3873599286" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="sliding.html" crc="3764237068" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="casement.html" crc="153161371" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="special.html" crc="4053041435" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="premium.html" crc="4088795616" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="accessories.html" crc="4019832035" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="windows.html" crc="4240841495" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="doors.html" crc="151030451" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="large-doors.html" crc="3995904876" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="casement-window.html" crc="4270240541" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="casement-door.html" crc="3858409464" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="arched.html" crc="4235876264" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="lamination.html" crc="4187066108" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="combination.html" crc="386832810" seo="true" mt="1520691146056" redirect="true"/>
+  <file name="bay-window.html" crc="493749660" seo="true" mt="1520691146056" redirect="true"/>
 </manifest>
