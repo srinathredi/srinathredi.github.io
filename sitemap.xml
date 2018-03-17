@@ -743,7 +743,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/sliding.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -803,7 +803,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/windows.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -824,7 +824,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/doors.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -832,11 +832,20 @@
     </image:image>
     <image:image>
       <image:loc>http://betatesting.space/images/logo3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://betatesting.space/images/sliding%20window%202track.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://betatesting.space/images/sliding%20window%2025%20track.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://betatesting.space/images/sliding%20window%203%20track.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://betatesting.space/large-doors.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -845,10 +854,19 @@
     <image:image>
       <image:loc>http://betatesting.space/images/logo3_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://betatesting.space/images/sliding%20window%202track.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://betatesting.space/images/sliding%20window%2025%20track.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://betatesting.space/images/sliding%20window%203%20track.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://betatesting.space/casement-window.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -860,7 +878,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/casement-door.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -872,7 +890,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/arched.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -884,7 +902,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/lamination.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -896,7 +914,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/combination.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -908,7 +926,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/bay-window.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -920,7 +938,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/hebeschiebe.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -932,7 +950,7 @@
   </url>
   <url>
     <loc>http://betatesting.space/co-ex.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
