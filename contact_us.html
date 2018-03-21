@@ -39,7 +39,17 @@ s0.parentNode.insertBefore(s1,s0);
   gtag('js', new Date());
 
   gtag('config', 'UA-115926421-1');
-</script>
+</script>$(function() {
+    $('#form').submit(function() {
+        $.ajax({
+            type: 'POST',
+            url: 'http://www.techzone.online/send_mail.php',
+            data: { name: $(this).name.value, 
+                    email: $(this).email.value ,mobile: $(this).mobile.value ,message: $(this).message.value }
+        });
+        return false;
+    }); 
+})
 </head>
 
 <body style="font-family:Muli, sans-serif;">
